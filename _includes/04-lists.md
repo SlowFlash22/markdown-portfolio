@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Comics
+  * Marvel
+  * DC
+* Series
+  * Brooklyn 99
+  * Scrubs
+  * Deathnote
